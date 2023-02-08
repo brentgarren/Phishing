@@ -7,6 +7,6 @@ Defensive measures refer to activities after a phishing attack in order to preve
 
 We can perform three main types of actions
 
-Email artifact blocking (subject line, sending address, sending server IP) <br>
-Web artifact blocking (URL, domain, IP)<br>
-File artifact blocking (file name, file hash) <br>
+***Email artifact blocking*** (subject line, sending address, sending server IP) <br>
+***Web artifact blocking*** (URL, domain, IP)<br>
+***File artifact blocking*** (file name, file hash) <br>
