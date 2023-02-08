@@ -10,3 +10,9 @@ We can perform three main types of actions
 ***Email artifact blocking*** (subject line, sending address, sending server IP) <br>
 ***Web artifact blocking*** (URL, domain, IP)<br>
 ***File artifact blocking*** (file name, file hash) <br>
+
+  -------------------
+  Depending on the organization, it is likely there will be one of two paths to complete these actions:
+
+Analysts are able to directly conduct defensive measures themselves.
+Analysts must request defensive measures to be taken by senior analysts or other departments and need to provide sufficient justification.
